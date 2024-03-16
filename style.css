@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+div{
+    text-align: center;
+}
+img{
+    border: 3px solid white;
+    width: 40%;
+    margin-top: 150px;
+    margin-left: 30px;
+}
+.text{
+    color: white;
+}
